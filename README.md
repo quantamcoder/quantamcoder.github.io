@@ -16,7 +16,7 @@
         <li><a href="#">clients</a></li>
         <li><a href="#">contacts</a></li>
       </ul>
-      <a href="#" class="hey"><b><u>Say Hi</u></b></a>
+      <a href="#" class="hey"><b>Say Hi</b></a>
     </nav>
   </section>
 </body>
