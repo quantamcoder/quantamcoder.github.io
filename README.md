@@ -1,4 +1,4 @@
-# quantamcoder.github.io
+
 <html>
 <head>
   <style> img{width:100px;}</style>
