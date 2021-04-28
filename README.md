@@ -19,6 +19,16 @@
       <a href="#" class="hey"><b>Say Hi</b></a>
     </nav>
   </section>
+  <div class="content">
+    <div class="image">
+      <img src="GettyImages-942494284.png" alt="Rock">
+    </div>
+    <div class="main-text">
+      <h1>Hello , I am the Rock</h1>
+      <p>Hey, in this video I'm gonna show ypu how to make a website using HTML and CSS only</p>
+      <a href="#" class="resume-btn">See my Resume</a>
+    </div>
+  </div>
 </body>
   
 </html>  
