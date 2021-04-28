@@ -1,7 +1,7 @@
 # quantamcoder.github.io
 <html>
 <head>
-  <title>Web Devlopment Project</title>
+  <style> img{width:100px;}</style>
 </head>
 <body>
 <img src="GettyImages-942494284.png">
