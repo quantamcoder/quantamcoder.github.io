@@ -6,7 +6,7 @@
   <section id="main">
     <nav>
       <a href="#" class="logo">
-      <img src="2065243799_05181528f3.png" alt="The logo of project Rock">
+      <img src="190919-REBEL-UA-ProjectRock-BTB-Logo-BW.png" alt="The logo of project Rock">
       </a>
       <ul class="menu">
         <li><a href="#">HOME</a></li>
