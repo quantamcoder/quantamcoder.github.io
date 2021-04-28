@@ -8,12 +8,7 @@
       <a href="#" class="logo">
       <img src="190919-REBEL-UA-ProjectRock-BTB-Logo-BW.png" alt="The logo of project Rock">
       </a>
-      
-      
       <span class="menu-space"></span>
-      
-      
-      
       <ul class="menu">
         <li><a href="#" class="home">home</a></li>
         <li><a href="#">skills</a></li>
