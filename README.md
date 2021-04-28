@@ -1,5 +1,6 @@
 <html>
 <head>
+  <link href="project.css" rel="stylesheet">
 </head>
 <body>
   <section id="main">
